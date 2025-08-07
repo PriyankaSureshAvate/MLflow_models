@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/priyanka/Documents/MLOPS/2-ANN-with-mlflow/mlruns/367540009626372324/a27f89d5cfd74a52b143ffd931f44baf/artifacts
+end_time: 1754554313095
+entry_point_name: ''
+experiment_id: '367540009626372324'
+lifecycle_stage: active
+run_id: a27f89d5cfd74a52b143ffd931f44baf
+run_name: legendary-crane-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754554305254
+status: 3
+tags: []
+user_id: priyanka

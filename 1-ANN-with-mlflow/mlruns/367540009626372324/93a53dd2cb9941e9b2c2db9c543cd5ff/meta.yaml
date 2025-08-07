@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/priyanka/Documents/MLOPS/2-ANN-with-mlflow/mlruns/367540009626372324/93a53dd2cb9941e9b2c2db9c543cd5ff/artifacts
+end_time: 1754554316815
+entry_point_name: ''
+experiment_id: '367540009626372324'
+lifecycle_stage: active
+run_id: 93a53dd2cb9941e9b2c2db9c543cd5ff
+run_name: receptive-shrew-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754554278821
+status: 3
+tags: []
+user_id: priyanka

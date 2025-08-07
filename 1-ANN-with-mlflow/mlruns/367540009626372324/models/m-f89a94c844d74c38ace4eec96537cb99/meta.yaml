@@ -1,0 +1,10 @@
+artifact_location: file:///Users/priyanka/Documents/MLOPS/2-ANN-with-mlflow/mlruns/367540009626372324/models/m-f89a94c844d74c38ace4eec96537cb99/artifacts
+creation_timestamp: 1754554289147
+experiment_id: '367540009626372324'
+last_updated_timestamp: 1754554293067
+model_id: m-f89a94c844d74c38ace4eec96537cb99
+model_type: null
+name: model
+source_run_id: dbee89abb6154fa583ff0f2972216466
+status: 2
+status_message: null
